@@ -1,0 +1,4 @@
+year,government,government_iso2_code,type,count_received,count_processed,count_repos_affected,count_pages_affected,count_accounts_affected
+2022,Russia,RU,Local law,6,0,0,0,0
+2022,Russia,RU,Terms of service,5,5,7,7,12
+2022,Australia,AU,Terms of service,1,1,8,0,5

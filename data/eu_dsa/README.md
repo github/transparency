@@ -1,0 +1,3 @@
+# Average Monthly Active Users for EU
+
+The Digital Services Act (DSA) requires online platforms to report information on the average monthly active users (MAU) in the EU, defined as the number of users in EU member states that either: (1) are exposed to content hosted by the online platform and disseminated through the platform’s online interface; or (2) request that the online platform host content. The average MAU for a given month is based on the average of the MAU of the preceding 6 months, so for example, the average MAU for February 2023 is calculated by taking the average of the MAU of August 2022 through January 2023.

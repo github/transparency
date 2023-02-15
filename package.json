@@ -1,0 +1,23 @@
+{
+  "name": "transparency",
+  "version": "1.0.0",
+  "description": "Transparency data about GitHub in structured data files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github/transparency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github/transparency/issues"
+  },
+  "homepage": "https://github.com/github/transparency#readme",
+  "dependencies": {
+    "datapackage": "^1.1.10"
+  }
+}

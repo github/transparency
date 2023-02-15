@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- name: "GitHub, Inc."
+title: "GitHub Transparency Data"
+version: 1.0.0
+date-released: 2023-02-17
+license: CC-BY-4.0
+url: https://github.com/github/transparency
+type: dataset
+repository: "https://github.com/github/transparency"
+keywords: 
+- "open source"
+- transparency
+- dataset

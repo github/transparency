@@ -1,0 +1,535 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "data/appeals_and_other_reinstatements/abuse_related_violations.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "abuse_related_violations",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/appeals_and_other_reinstatements/trade_controls_compliance.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "trade_controls_compliance",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "government",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/cseai/cseai_reported.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "cseai_reported",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/dmca/circumvention_claims.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "circumvention_claims",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/dmca/dmca_notices_and_projects_taken_down_by_calendar_year_half.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "dmca_notices_and_projects_taken_down_by_calendar_year_half",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "calendar_year_half",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "takedowns",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "takedown_notices_processed",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/dmca/dmca_notices_and_projects_taken_down_by_month.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "dmca_notices_and_projects_taken_down_by_month",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "month",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Takedown Notices Processed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Takedowns",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/dmca/dmca_takedowns_by_month.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "dmca_takedowns_by_month",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "month",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Takedown Notices Processed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Retractions, Reversals, and Counter Notices Processed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Takedowns",
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Retracted",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Reversed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Counter Noticed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Counter Notice Retracted",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Retracted, Reversed, or Counter Noticed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Remaining Offline",
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Retracted Notices",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Reversed Notices",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Counter Notices",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Counter Notices Retracted",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Projects Counter Notice Reversed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Counter Notices Reversed",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/dmca/dmca_takedowns_summary.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "dmca_takedowns_summary",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "any",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/eu_dsa/eu_dsa_mau.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "eu_dsa_mau",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "month",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "average_mau",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/government_takedowns/government_takedowns.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "government_takedowns",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "government",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "government_iso2_code",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_received",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_processed",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_repos_affected",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_pages_affected",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_accounts_affected",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/user_information_requests/cross_border_data_requests.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "cross_border_data_requests",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "government",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "government_iso2_code",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/user_information_requests/national_security_letters_and_orders.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "national_security_letters_and_orders",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/user_information_requests/requests_accounts_affected.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "requests_accounts_affected",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_accounts_affected",
+                        "type": "year",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/user_information_requests/requests_received_and_disclosed.csv",
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "name": "requests_received_and_disclosed",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "year",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_requests_received",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count_disclosed",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

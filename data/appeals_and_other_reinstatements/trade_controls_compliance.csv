@@ -1,0 +1,29 @@
+year,government,type,count
+2022,,Not subject to trade controls,212
+2022,Crimea,Approved,251
+2022,Crimea,Denied,38
+2022,Crimea,Other action taken,1
+2022,Donetsk People's Republic,Approved,96
+2022,Donetsk People's Republic,Denied,72
+2022,Donetsk People's Republic,Other action taken,1
+2022,Luhansk People's Republic,Approved,20
+2022,Luhansk People's Republic,Denied,18
+2022,Luhansk People's Republic,Other action taken,1
+2022,Syria,Approved,224
+2022,Syria,Denied,25
+2022,Syria,Other action taken,2
+2022,Unknown,Approved,223
+2022,Unknown,Other action taken,2
+2021,,Not subject to trade controls,47
+2021,Crimea,Approved,1069
+2021,Crimea,Denied,119
+2021,Crimea,Other action taken,4
+2021,Iran,Approved,76
+2021,Iran,Denied,0
+2021,Iran,Other action taken,0
+2021,Syria,Approved,152
+2021,Syria,Denied,17
+2021,Syria,Other action taken,2
+2021,Unknown,Approved,58
+2021,Unknown,Denied,1
+2021,Unknown,Other action taken,2
