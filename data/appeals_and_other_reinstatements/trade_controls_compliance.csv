@@ -27,3 +27,22 @@ year,government,type,count
 2021,Unknown,Approved,58
 2021,Unknown,Denied,1
 2021,Unknown,Other action taken,2
+2020,,Not subject to trade controls,36
+2020,Crimea,Approved,804
+2020,Crimea,Denied,77
+2020,Crimea,Other action taken,4
+2020,Cuba,Approved,1
+2020,Cuba,Denied,0
+2020,Cuba,Other action taken,0
+2020,Iran,Approved,1120
+2020,Iran,Denied,207
+2020,Iran,Other action taken,55
+2020,North Korea,Approved,4
+2020,North Korea,Denied,0
+2020,North Korea,Other action taken,0
+2020,Syria,Approved,105
+2020,Syria,Denied,18
+2020,Syria,Other action taken,1
+2020,Unknown,Approved,88
+2020,Unknown,Denied,14
+2020,Unknown,Other action taken,2
