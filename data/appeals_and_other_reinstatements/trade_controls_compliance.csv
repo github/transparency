@@ -1,29 +1,48 @@
-year,government,type,count
-2022,,Not subject to trade controls,212
-2022,Crimea,Approved,251
-2022,Crimea,Denied,38
-2022,Crimea,Other action taken,1
-2022,Donetsk People's Republic,Approved,96
-2022,Donetsk People's Republic,Denied,72
-2022,Donetsk People's Republic,Other action taken,1
-2022,Luhansk People's Republic,Approved,20
-2022,Luhansk People's Republic,Denied,18
-2022,Luhansk People's Republic,Other action taken,1
-2022,Syria,Approved,224
-2022,Syria,Denied,25
-2022,Syria,Other action taken,2
-2022,Unknown,Approved,223
-2022,Unknown,Other action taken,2
-2021,,Not subject to trade controls,47
-2021,Crimea,Approved,1069
-2021,Crimea,Denied,119
-2021,Crimea,Other action taken,4
-2021,Iran,Approved,76
-2021,Iran,Denied,0
-2021,Iran,Other action taken,0
-2021,Syria,Approved,152
-2021,Syria,Denied,17
-2021,Syria,Other action taken,2
-2021,Unknown,Approved,58
-2021,Unknown,Denied,1
-2021,Unknown,Other action taken,2
+year,government,government_iso2_code,type,count
+2022,,,Not subject to trade controls,212
+2022,Crimea,,Approved,251
+2022,Crimea,,Denied,38
+2022,Crimea,,Other action taken,1
+2022,Donetsk People's Republic,,Approved,96
+2022,Donetsk People's Republic,,Denied,72
+2022,Donetsk People's Republic,,Other action taken,1
+2022,Luhansk People's Republic,,Approved,20
+2022,Luhansk People's Republic,,Denied,18
+2022,Luhansk People's Republic,,Other action taken,1
+2022,Syria,SY,Approved,224
+2022,Syria,SY,Denied,25
+2022,Syria,SY,Other action taken,2
+2022,Unknown,,Approved,223
+2022,Unknown,,Other action taken,2
+2021,,,Not subject to trade controls,47
+2021,Crimea,,Approved,1069
+2021,Crimea,,Denied,119
+2021,Crimea,,Other action taken,4
+2021,Iran,IR,Approved,76
+2021,Iran,IR,Denied,0
+2021,Iran,IR,Other action taken,0
+2021,Syria,SY,Approved,152
+2021,Syria,SY,Denied,17
+2021,Syria,SY,Other action taken,2
+2021,Unknown,,Approved,58
+2021,Unknown,,Denied,1
+2021,Unknown,,Other action taken,2
+2020,,,Not subject to trade controls,36
+2020,Crimea,,Approved,804
+2020,Crimea,,Denied,77
+2020,Crimea,,Other action taken,4
+2020,Cuba,CU,Approved,1
+2020,Cuba,CU,Denied,0
+2020,Cuba,CU,Other action taken,0
+2020,Iran,IR,Approved,1120
+2020,Iran,IR,Denied,207
+2020,Iran,IR,Other action taken,55
+2020,North Korea,KP,Approved,4
+2020,North Korea,KP,Denied,0
+2020,North Korea,KP,Other action taken,0
+2020,Syria,SY,Approved,105
+2020,Syria,SY,Denied,18
+2020,Syria,SY,Other action taken,1
+2020,Unknown,,Approved,88
+2020,Unknown,,Denied,14
+2020,Unknown,,Other action taken,2

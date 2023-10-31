@@ -1,0 +1,17 @@
+year,half,government,government_iso2_code,type,count
+2023,1,,,Not subject to trade controls,201
+2023,1,Crimea,,Approved,91
+2023,1,Crimea,,Denied,22
+2023,1,Crimea,,Other action taken,0
+2023,1,Donetsk People's Republic,,Approved,32
+2023,1,Donetsk People's Republic,,Denied,10
+2023,1,Donetsk People's Republic,,Other action taken,0
+2023,1,Luhansk People's Republic,,Approved,13
+2023,1,Luhansk People's Republic,,Denied,1
+2023,1,Luhansk People's Republic,,Other action taken,0
+2023,1,Syria,SY,Approved,133
+2023,1,Syria,SY,Denied,25
+2023,1,Syria,SY,Other action taken,0
+2023,1,Unknown,,Approved,201
+2023,1,Unknown,,Denied,0
+2023,1,Unknown,,Other action taken,3

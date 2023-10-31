@@ -5,6 +5,24 @@ year,type,count
 2022,"account access restricted, but later unrestricted",58
 2022,account hidden and access restricted,8822
 2022,"account hidden and access restricted, but partially reinstated",25
-2022,"account hidden and access restricted, but full reinstated",115
+2022,"account hidden and access restricted, but fully reinstated",115
 2022,projects disabled,4507
 2022,"projects disabled, but later re-enabled",6
+2021,account hidden,4585
+2021,"account hidden, but later unhidden",341
+2021,account access restricted,69
+2021,"account access restricted, but later unrestricted",23
+2021,account hidden and access restricted,4240
+2021,"account hidden and access restricted, but partially reinstated",8
+2021,"account hidden and access restricted, but fully reinstated",28
+2021,projects disabled,2257
+2021,"projects disabled, but later re-enabled",55
+2020,account hidden,4826
+2020,"account hidden, but later unhidden",415
+2020,account access restricted,47
+2020,"account access restricted, but later unrestricted",15
+2020,account hidden and access restricted,1178
+2020,"account hidden and access restricted, but partially reinstated",12
+2020,"account hidden and access restricted, but fully reinstated",29
+2020,projects disabled,2405
+2020,"projects disabled, but later re-enabled",4

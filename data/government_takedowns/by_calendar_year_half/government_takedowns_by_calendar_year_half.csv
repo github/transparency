@@ -1,0 +1,6 @@
+year,half,government,government_iso2_code,type,count_received,count_processed,count_repos_affected,count_pages_affected,count_accounts_affected
+2023,1,Russia,RU,Terms of service,3,3,3,3,3
+2023,1,Russia,RU,Local law,3,0,0,0,0
+2023,1,India,IN,Terms of service,2,2,2,0,2
+2023,1,United States,US,Terms of service,1,1,1,0,1
+2023,1,Singapore,SG,Terms of service,1,1,138,0,138
