@@ -442,6 +442,10 @@
           {
             "name": "average_mau",
             "type": "string"
+          },
+          {
+            "name": "service",
+            "type": "string"
           }
         ]
       }
