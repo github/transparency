@@ -1,4 +1,13 @@
 year,half,type,count
+2024,2,account hidden,3495
+2024,2,"account hidden, but later unhidden",72
+2024,2,account access restricted,129
+2024,2,"account access restricted, but later unrestricted",3
+2024,2,account hidden and access restricted,12351
+2024,2,"account hidden and access restricted, but partially reinstated",91
+2024,2,"account hidden and access restricted, but fully reinstated",70
+2024,2,projects disabled,2977
+2024,2,"projects disabled, but later re-enabled",3
 2024,1,account hidden,5334
 2024,1,"account hidden, but later unhidden",130
 2024,1,account access restricted,53

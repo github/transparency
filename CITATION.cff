@@ -3,8 +3,8 @@ message: "If you use this dataset, please cite it as below."
 authors:
 - name: "GitHub, Inc."
 title: "GitHub Transparency Data"
-version: 1.0.3
-date-released: 2024-09-30
+version: 1.0.4
+date-released: 2025-02-20
 license: CC-BY-4.0
 url: https://github.com/github/transparency
 type: dataset
