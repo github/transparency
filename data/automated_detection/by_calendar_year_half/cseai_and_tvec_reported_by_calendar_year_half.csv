@@ -1,4 +1,6 @@
 year,half,detection_type,abuse_type,count
+2024,2,automated detection,CSEAI,4
+2024,2,staff,CSEAI,10
 2024,1,automated detection,CSEAI,1
 2024,1,staff,CSEAI,6
 2023,2,automated detection,CSEAI,1

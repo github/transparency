@@ -7,3 +7,5 @@ year,half,government,government_iso2_code,type,count_received,count_processed,co
 2023,1,Singapore,SG,Terms of service,1,1,138,0,138
 2024,1,Russia,RU,Terms of service,5,5,66,64,65
 2024,1,Russia,RU,Local law,12,0,0,0,0
+2024,2,Russia,RU,Terms of service,9,8,8,8,8
+2024,2,Russia,RU,Local law,16,0,0,0,0
