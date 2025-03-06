@@ -11,6 +11,8 @@ The table below reflects information on average monthly active recipients of ser
 | GitHub | 25000000-26000000 |
 | npm | 9000000-10000000 |
 
+Historical data are also available in [CSV format](./eu_dsa_mau.csv).
+
 ## Errata
 
 - 2024-04-23: We discovered an error in our process for calculating EU MAU for npm, which resulted in us understating the average MAU in previous reporting periods. This error has now been corrected.
