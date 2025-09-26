@@ -2,7 +2,6 @@
 # /data directory
 
 from frictionless import describe
-import os
 
 package = describe("data/**/*.csv")
 package.to_json("datapackage.json")

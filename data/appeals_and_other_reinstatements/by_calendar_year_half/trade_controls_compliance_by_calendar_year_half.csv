@@ -1,5 +1,17 @@
 year,half,government,government_iso2_code,type,count
-2024,2,,Not subject to trade controls,238
+2025,1,Belarus,BY,Approved,12
+2025,1,Crimea,,Approved,12
+2025,1,Crimea,,Denied,120
+2025,1,Donetsk People's Republic,,Approved,1
+2025,1,Donetsk People's Republic,,Denied,13
+2025,1,Iran,IR,Approved,13
+2025,1,Luhansk People's Republic,,Approved,1
+2025,1,Luhansk People's Republic,,Denied,6
+2025,1,Syria,,Approved,10
+2025,1,Syria,,Denied,260
+2025,1,Unknown,,Denied,19
+2025,1,,,Not subject to trade controls,117
+2024,2,,,Not subject to trade controls,238
 2024,2,Crimea,,Approved,165
 2024,2,Crimea,,Denied,40
 2024,2,Crimea,,Other action taken,4
@@ -16,19 +28,19 @@ year,half,government,government_iso2_code,type,count
 2024,2,Syria,,Other action taken,0
 2024,2,Unknown,,Approved,10
 2024,2,Unknown,,Denied,1
-2024,1,,Not subject to trade controls,120
-2024,1,Crimea,Approved,133
-2024,1,Crimea,Denied,47
-2024,1,Crimea,Other action taken,0
-2024,1,Donetsk People's Republic,Approved,20
-2024,1,Donetsk People's Republic,Denied,6
-2024,1,Donetsk People's Republic,Other action taken,0
-2024,1,Luhansk People's Republic,Approved,3
-2024,1,Luhansk People's Republic,Denied,4
-2024,1,Luhansk People's Republic,Other action taken,0
-2024,1,Syria,Approved,169
-2024,1,Syria,Denied,20
-2024,1,Syria,Other action taken,0
+2024,1,,,Not subject to trade controls,120
+2024,1,Crimea,,Approved,133
+2024,1,Crimea,,Denied,47
+2024,1,Crimea,,Other action taken,0
+2024,1,Donetsk People's Republic,,Approved,20
+2024,1,Donetsk People's Republic,,Denied,6
+2024,1,Donetsk People's Republic,,Other action taken,0
+2024,1,Luhansk People's Republic,,Approved,3
+2024,1,Luhansk People's Republic,,Denied,4
+2024,1,Luhansk People's Republic,,Other action taken,0
+2024,1,Syria,,Approved,169
+2024,1,Syria,,Denied,20
+2024,1,Syria,,Other action taken,0
 2023,2,,,Not subject to trade controls,117
 2023,2,Crimea,,Approved,188
 2023,2,Crimea,,Denied,43
