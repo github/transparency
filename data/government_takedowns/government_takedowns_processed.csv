@@ -1,0 +1,23 @@
+year,government,government_iso2_code,type,count_processed,count_repos_affected,count_pages_affected,count_accounts_affected
+2021,Russia,RU,Local law,17,21,15,16
+2021,Hong Kong,HK,Local law,1,9,3,7
+2021,China,CN,Local law,2,38,0,27
+2021,Brazil,BR,Terms of service,1,15,15,1
+2021,China,CN,Terms of service,2,6,0,2
+2021,Netherlands,NL,Terms of service,1,2,0,2
+2021,United Kingdom,UK,Terms of service,1,86,86,1
+2021,United States,US,Terms of service,8,8,0,8
+2022,Russia,RU,Local law,0,0,0,0
+2022,Russia,RU,Terms of service,5,7,7,12
+2022,Australia,AU,Terms of service,1,8,0,5
+2023,Russia,RU,Terms of service,8,8,8,8
+2023,Russia,RU,Local law,0,0,0,0
+2023,India,IN,Terms of service,2,2,0,2
+2023,United States,US,Terms of service,1,1,0,1
+2023,Singapore,SG,Terms of service,1,138,0,138
+2024,India,IN,Terms of service,1,1,1,1
+2024,Russia,RU,Terms of service,13,74,72,73
+2024,Russia,RU,Local law,0,0,0,0
+2025,Russia,RU,Terms of service,1,1,0,1
+2025,Russia,RU,Local law,0,0,0,0
+2025,Sri Lanka,LK,Local law,0,0,0,0

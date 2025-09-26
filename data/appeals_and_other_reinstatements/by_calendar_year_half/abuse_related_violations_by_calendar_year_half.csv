@@ -1,4 +1,13 @@
 year,half,type,count
+2025,1,account hidden,4813
+2025,1,"account hidden, but later unhidden",85
+2025,1,account access restricted,197
+2025,1,"account access restricted, but later unrestricted",3
+2025,1,account hidden and access restricted,31526
+2025,1,"account hidden and access restricted, but partially reinstated",62
+2025,1,"account hidden and access restricted, but fully reinstated",75
+2025,1,projects disabled,7646
+2025,1,"projects disabled, but later re-enabled",45
 2024,2,account hidden,3495
 2024,2,"account hidden, but later unhidden",72
 2024,2,account access restricted,129
@@ -18,14 +27,14 @@ year,half,type,count
 2024,1,projects disabled,2977
 2024,1,"projects disabled, but later re-enabled",3
 2023,2,account hidden,18897
-2023,2,account hidden, but later unhidden,427
+2023,2,"account hidden, but later unhidden",427
 2023,2,account access restricted,9347
-2023,2,account access restricted, but later unrestricted,258
+2023,2,"account access restricted, but later unrestricted",258
 2023,2,account hidden and access restricted,9283
-2023,2,account hidden and access restricted, but partially reinstated,178
-2023,2,account hidden and access restricted, but fully reinstated,243
+2023,2,"account hidden and access restricted, but partially reinstated",178
+2023,2,"account hidden and access restricted, but fully reinstated",243
 2023,2,projects disabled,4494
-2023,2,projects disabled, but later re-enabled,2
+2023,2,"projects disabled, but later re-enabled",2
 2023,1,account hidden,9735
 2023,1,"account hidden, but later unhidden",256
 2023,1,account access restricted,4151

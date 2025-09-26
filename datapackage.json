@@ -451,9 +451,9 @@
       }
     },
     {
-      "name": "government_takedowns_by_calendar_year_half",
+      "name": "government_takedowns_processed_by_calendar_year_half",
       "type": "table",
-      "path": "data/government_takedowns/by_calendar_year_half/government_takedowns_by_calendar_year_half.csv",
+      "path": "data/government_takedowns/by_calendar_year_half/government_takedowns_processed_by_calendar_year_half.csv",
       "scheme": "file",
       "format": "csv",
       "mediatype": "text/csv",
@@ -481,10 +481,6 @@
             "type": "string"
           },
           {
-            "name": "count_received",
-            "type": "integer"
-          },
-          {
             "name": "count_processed",
             "type": "integer"
           },
@@ -504,9 +500,42 @@
       }
     },
     {
-      "name": "government_takedowns",
+      "name": "government_takedowns_received_by_calendar_year_half",
       "type": "table",
-      "path": "data/government_takedowns/government_takedowns.csv",
+      "path": "data/government_takedowns/by_calendar_year_half/government_takedowns_received_by_calendar_year_half.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "half",
+            "type": "integer"
+          },
+          {
+            "name": "government",
+            "type": "string"
+          },
+          {
+            "name": "government_iso2_code",
+            "type": "string"
+          },
+          {
+            "name": "count_received",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "government_takedowns_processed",
+      "type": "table",
+      "path": "data/government_takedowns/government_takedowns_processed.csv",
       "scheme": "file",
       "format": "csv",
       "mediatype": "text/csv",
@@ -530,10 +559,6 @@
             "type": "string"
           },
           {
-            "name": "count_received",
-            "type": "integer"
-          },
-          {
             "name": "count_processed",
             "type": "integer"
           },
@@ -547,6 +572,35 @@
           },
           {
             "name": "count_accounts_affected",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "government_takedowns_received",
+      "type": "table",
+      "path": "data/government_takedowns/government_takedowns_received.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "government",
+            "type": "string"
+          },
+          {
+            "name": "government_iso2_code",
+            "type": "string"
+          },
+          {
+            "name": "count_received",
             "type": "integer"
           }
         ]
