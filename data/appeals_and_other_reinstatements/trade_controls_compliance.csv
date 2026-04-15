@@ -1,4 +1,16 @@
 year,government,government_iso2_code,type,count
+2025,Belarus,,Approved,17  
+2025,Crimea,,Approved,12  
+2025,Crimea,,Denied,258  
+2025,Donetsk People's Republic,,Approved,1  
+2025,Donetsk People's Republic,,Denied,18  
+2025,Iran,IR,Approved,25  
+2025,Luhansk People's Republic,,Approved,2  
+2025,Luhansk People's Republic,,Denied,6  
+2025,Syria,,Approved,186  
+2025,Syria,,Denied,265  
+2025,Unknown,,Denied,27  
+2025,,,Not subject to trade controls,195  
 2024,,,Not subject to trade controls,348
 2024,Crimea,,Approved,298
 2024,Crimea,,Denied,87

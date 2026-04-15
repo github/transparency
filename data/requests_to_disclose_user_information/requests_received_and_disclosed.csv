@@ -1,4 +1,9 @@
 year,type,count_requests_received,count_disclosed
+2025,criminal or government agency subpoena,385,362
+2025,criminal court order,115,82
+2025,cross-border request,92,22
+2025,criminal search warrant,35,34
+2025,civil subpoena,23,17
 2024,criminal or government agency subpoena,367,353
 2024,criminal court order,104,68
 2024,criminal search warrant,45,43
