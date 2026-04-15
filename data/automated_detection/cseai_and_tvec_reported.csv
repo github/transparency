@@ -1,4 +1,6 @@
 year,detection_type,abuse_type,count
+2025,automated detection,CSEAI,57
+2025,staff,CSEAI,14
 2024,automated detection,CSEAI,5
 2024,staff,CSEAI,16
 2023,automated detection,CSEAI,3
