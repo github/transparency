@@ -1,15 +1,15 @@
 # Average Monthly Active Users for EU
 
-The Digital Services Act (DSA) requires online platforms to report information on the average monthly active users (MAU) in the EU, defined as the number of users in EU member states that either: (1) are exposed to content hosted by the online platform and disseminated through the platform's online interface; or (2) request that the online platform host content. The average MAU for a given month is based on the average of the MAU of the preceding 6 months, so for example, the average MAU for January 2026 is calculated by taking the average of the MAU of July 1 2025 through December 31 2025.
+The Digital Services Act (DSA) requires online platforms to report information on the average monthly active users (MAU) in the EU, defined as the number of users in EU member states that either: (1) are exposed to content hosted by the online platform and disseminated through the platform's online interface; or (2) request that the online platform host content. The average MAU for a given month is based on the average of the MAU of the preceding 6 months, so for example, the average MAU for July 2026 is calculated by taking the average of the MAU of January 1 2026 through June 30 2026.
 
 ## Information on Average Monthly Active Recipients of Service in the European Union
 
 The table below reflects information on average monthly active recipients of service in the European Union in accordance with the EU Digital Services Act and may not be representative of other statistics or metrics.
 
-| Service | Average monthly recipients of service (previous 6 months ended 31 December 2025) |
+| Service | Average monthly recipients of service (previous 6 months ended 30 June 2026) |
 | --- | --- |
-| GitHub | 17000000-18000000 |
-| npm | 14000000-15000000 |
+| GitHub | 21000000-22000000 |
+| npm | 18000000-19000000 |
 
 Historical data are also available in [CSV format](./eu_dsa_mau.csv).
 
