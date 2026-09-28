@@ -10,3 +10,9 @@ year,half,government,government_iso2_code,type,count_processed,count_repos_affec
 2025,1,Russia,RU,Terms of service,1,1,0,1
 2025,1,Russia,RU,Local law,0,0,0,0
 2025,1,Sri Lanka,LK,Local law,0,0,0,0
+2026,1,India,IN,Local law,1,1,1,1
+2026,1,India,IN,Terms of service,13,14,4,14
+2026,1,Russia,RU,Terms of service,42,44,19,42
+2026,1,Singapore,SG,Terms of service,1,1,1,1
+2026,1,Taiwan,TW,Terms of service,1,1,0,1
+2026,1,United States,US,Terms of service,2,2,1,2
