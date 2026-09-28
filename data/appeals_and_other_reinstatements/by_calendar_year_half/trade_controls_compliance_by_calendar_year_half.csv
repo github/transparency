@@ -1,4 +1,8 @@
 year,half,government,government_iso2_code,type,count
+2026,1,Belarus,BY,Approved,22
+2026,1,Crimea,,Denied,86
+2026,1,Iran,IR,Approved,17
+2026,1,Unknown,,Approved,16
 2025,1,Belarus,BY,Approved,12
 2025,1,Crimea,,Approved,12
 2025,1,Crimea,,Denied,120
